@@ -130,18 +130,14 @@ The dashboard provides a deeper understanding of customer value and behavior.
 ## Repository Structure
 
 ```text
-retail-customer-analytics/
-│
-├── README.md
-├── sql/
-│   └── RetailAnalytics.sql
-├── python/
-│   └── Retail_RFM_Customer_Segmentation.ipynb
-├── powerbi/
-│   └── RetailCustomerDataAnalysis.pbix
-└── screenshots/
-    ├── business-overview.png
-    └── rfm-analysis.png
+Retail-Customer-Analytics/
+├── RetailAnalytics.sql
+├── IKEA RFM Segmentation.ipynb
+├── RetailCustomerDataAnalysis.pbix
+├── insights/
+│   └── Retail_Analytics_Insights.pdf
+└── dashboard/
+    └── Power_BI_Dashboard.pdf
 ```
 
 ## How to Explore the Project
