@@ -20,7 +20,7 @@ This project analyzes retail transaction data to understand customer purchasing 
 | **Python** | Customer analysis, RFM calculations, and segmentation |
 | **Pandas & NumPy** | Data manipulation and feature engineering |
 | **SQLAlchemy & pyodbc** | Database connectivity and pipeline automation |
-| **Power BI Desktop** | Interactive dashboards, DAX feature engineering, and business reporting |
+| **Power BI Desktop** | Interactive dashboards, and business reporting |
 
 ---
 
