@@ -92,10 +92,8 @@ The Power BI component transforms the processed transactional data into immersiv
 ## Repository Structure
 ```text
 Retail-Customer-Analytics/
-├── RetailAnalytics.sql                  # End-to-end SQL data integration & cleaning script
+├── Business_Insights.docx                 # Compiled project business insights document
 ├── IKEA RFM Segmentation.ipynb          # Python notebook for RFM modeling and segmentation
-├── RetailCustomerDataAnalysis.pbix      # Interactive Power BI report file (with Data Model & Drillthrough)
-├── insights/
-│   └── Retail_Analytics_Insights.pdf    # Compiled project business insights report
-└── dashboard/
-    └── Power_BI_Dashboard.pdf           # Exported visual dashboard view
+├── README.md                            # Project documentation
+├── RetailAnalytics.sql                  # End-to-end SQL data integration & cleaning script
+└── RetailCustomerDataAnalysis - Dashboard.pdf # Exported visual dashboard view
