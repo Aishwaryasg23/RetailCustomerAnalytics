@@ -98,9 +98,3 @@ Retail-Customer-Analytics/
 ├── RetailAnalytics.sql                  # End-to-end SQL data integration & cleaning script
 └── RetailCustomerDataAnalysis - Dashboard.pdf # Exported visual dashboard view
 
----
-
-## How to Explore the Project
-1. **SQL Review:** Open `RetailAnalytics.sql` in SQL Server Management Studio (SSMS) to inspect the data ingestion, staging, and deduplication logic.   
-2. **Python Notebook:** Open `IKEA RFM Segmentation.ipynb` to review the data wrangling, scoring algorithms, and quintile breakdowns.   
-3. **Power BI Reporting:** Access the live interactive dashboard via Microsoft Fabric: [Main - RetailCustomerDataAnalysis - Fabric](https://app.fabric.microsoft.com/groups/f9efe996-f089-4e46-a26a-e602b9966e4a/reports/4851780c-c45b-4f09-a8e8-aa4f69119995/4cc45cde8831400b0bb7?experience=fabric-developer). Utilize drillthrough features to navigate seamlessly between high-level macro summaries and deep customer-level details.
